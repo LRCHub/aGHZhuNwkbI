@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "すきなことだけでいいです",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2025-12-19T22:45:03.636623Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです",
+      "artist": "SymaG",
+      "has_synced": true,
+      "path": "select/01_すきなことだけでいいです_SymaG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/02_すきなことだけでいいです_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです",
+      "artist": "PinocchioP feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_すきなことだけでいいです_PinocchioP_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/04_すきなことだけでいいです_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/05_すきなことだけでいいです_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/06_すきなことだけでいいです_ピノキオピー_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/07_すきなことだけでいいです_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです - All I Need are Things I Like",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/08_すきなことだけでいいです_-_All_I_Need_are_Things_I_Like_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ピノキオピー - すきなことだけでいいです feat. 初音ミク / All I Need are Things I Like",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/09_ピノキオピー_-_すきなことだけでいいです_feat._初音ミク___All_I_Need_are_Things_I_Like_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです (feat. Hatsune Miku)",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/10_すきなことだけでいいです_(feat._Hatsune_Miku)_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/11_すきなことだけでいいです_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです (feat. 鳳えむ&神代類&初音ミク)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/12_すきなことだけでいいです_(feat._鳳えむ&神代類&初音ミク)_ワンダーランズ×ショウタイム.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "すきなことだけでいいです",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/13_すきなことだけでいいです_ワンダーランズ×ショウタイム.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すきなことだけでいいです",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_すきなことだけでいいです_ピノキオピー.txt"
+    }
+  ]
+}
